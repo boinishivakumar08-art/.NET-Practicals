@@ -1,0 +1,7 @@
+C:\Users\shiva\source\repos\prattical1\prattical1\bin\Debug\prattical1.exe.config
+C:\Users\shiva\source\repos\prattical1\prattical1\bin\Debug\prattical1.exe
+C:\Users\shiva\source\repos\prattical1\prattical1\bin\Debug\prattical1.pdb
+C:\Users\shiva\source\repos\prattical1\prattical1\obj\Debug\prattical1.csproj.AssemblyReference.cache
+C:\Users\shiva\source\repos\prattical1\prattical1\obj\Debug\prattical1.csproj.CoreCompileInputs.cache
+C:\Users\shiva\source\repos\prattical1\prattical1\obj\Debug\prattical1.exe
+C:\Users\shiva\source\repos\prattical1\prattical1\obj\Debug\prattical1.pdb
