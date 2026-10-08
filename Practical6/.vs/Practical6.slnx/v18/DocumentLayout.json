@@ -1,0 +1,267 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shiva\\source\\repos\\Practical6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E584311E-0931-41CE-A8D1-1971B6416014}|Practical6.csproj|c:\\users\\shiva\\source\\repos\\practical6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E584311E-0931-41CE-A8D1-1971B6416014}|Practical6.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584311E-0931-41CE-A8D1-1971B6416014}|Practical6.csproj|c:\\users\\shiva\\source\\repos\\practical6\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E584311E-0931-41CE-A8D1-1971B6416014}|Practical6.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584311E-0931-41CE-A8D1-1971B6416014}|Practical6.csproj|c:\\users\\shiva\\source\\repos\\practical6\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E584311E-0931-41CE-A8D1-1971B6416014}|Practical6.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584311E-0931-41CE-A8D1-1971B6416014}|Practical6.csproj|c:\\users\\shiva\\source\\repos\\practical6\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E584311E-0931-41CE-A8D1-1971B6416014}|Practical6.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584311E-0931-41CE-A8D1-1971B6416014}|Practical6.csproj|c:\\users\\shiva\\source\\repos\\practical6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E584311E-0931-41CE-A8D1-1971B6416014}|Practical6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shiva\\AppData\\Local\\Temp\\0240c788-fa23-4fb2-8b32-a35c8777aa18_P6 - ProductCatalogApplication.rar.a18\\P6 - ProductCatalogApplication\\ProductCatalogApplication\\Views\\Product\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584311E-0931-41CE-A8D1-1971B6416014}|Practical6.csproj|c:\\users\\shiva\\source\\repos\\practical6\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E584311E-0931-41CE-A8D1-1971B6416014}|Practical6.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584311E-0931-41CE-A8D1-1971B6416014}|Practical6.csproj|c:\\users\\shiva\\source\\repos\\practical6\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E584311E-0931-41CE-A8D1-1971B6416014}|Practical6.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shiva\\AppData\\Local\\Temp\\bef3644e-4ef5-4123-ae0f-59bbbe156643_P6 - ProductCatalogApplication.rar.643\\P6 - ProductCatalogApplication\\ProductCatalogApplication\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shiva\\AppData\\Local\\Temp\\64436031-88f9-42db-b30e-f638eecc015c_P6 - ProductCatalogApplication.rar.15c\\P6 - ProductCatalogApplication\\ProductCatalogApplication\\Views\\Product\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shiva\\AppData\\Local\\Temp\\fddba1dc-a101-486f-aac4-87aae57db1b9_P6 - ProductCatalogApplication.rar.1b9\\P6 - ProductCatalogApplication\\ProductCatalogApplication\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E584311E-0931-41CE-A8D1-1971B6416014}|Practical6.csproj|c:\\users\\shiva\\source\\repos\\practical6\\practical6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E584311E-0931-41CE-A8D1-1971B6416014}|Practical6.csproj|solutionrelative:practical6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shiva\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\2060208378\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shiva\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-293719076\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shiva\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-293719076\\Privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\2060208378\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\2060208378\\HomeController.cs",
+              "ToolTip": "C:\\Users\\shiva\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\2060208378\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\2060208378\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T07:50:02.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\Practical6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\Practical6\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T07:43:30.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\Practical6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\Practical6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T06:23:52.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\AppData\\Local\\Temp\\0240c788-fa23-4fb2-8b32-a35c8777aa18_P6 - ProductCatalogApplication.rar.a18\\P6 - ProductCatalogApplication\\ProductCatalogApplication\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\0240c788-fa23-4fb2-8b32-a35c8777aa18_P6 - ProductCatalogApplication.rar.a18\\P6 - ProductCatalogApplication\\ProductCatalogApplication\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\AppData\\Local\\Temp\\0240c788-fa23-4fb2-8b32-a35c8777aa18_P6 - ProductCatalogApplication.rar.a18\\P6 - ProductCatalogApplication\\ProductCatalogApplication\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\0240c788-fa23-4fb2-8b32-a35c8777aa18_P6 - ProductCatalogApplication.rar.a18\\P6 - ProductCatalogApplication\\ProductCatalogApplication\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T06:13:38.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\Practical6\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\Practical6\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvzcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T06:03:47.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\Practical6\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\Practical6\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T06:03:24.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\Practical6\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\Practical6\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv1EAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T06:04:12.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-293719076\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-293719076\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-293719076\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-293719076\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T07:50:07.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-293719076\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-293719076\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-293719076\\Privacy.cshtml",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\CopilotBaseline\\Deleted\\-293719076\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T07:50:11.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\AppData\\Local\\Temp\\bef3644e-4ef5-4123-ae0f-59bbbe156643_P6 - ProductCatalogApplication.rar.643\\P6 - ProductCatalogApplication\\ProductCatalogApplication\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\bef3644e-4ef5-4123-ae0f-59bbbe156643_P6 - ProductCatalogApplication.rar.643\\P6 - ProductCatalogApplication\\ProductCatalogApplication\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\shiva\\AppData\\Local\\Temp\\bef3644e-4ef5-4123-ae0f-59bbbe156643_P6 - ProductCatalogApplication.rar.643\\P6 - ProductCatalogApplication\\ProductCatalogApplication\\Models\\Product.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\bef3644e-4ef5-4123-ae0f-59bbbe156643_P6 - ProductCatalogApplication.rar.643\\P6 - ProductCatalogApplication\\ProductCatalogApplication\\Models\\Product.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T06:13:13.197Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\Practical6\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\Practical6\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T05:58:12.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\Practical6\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\Practical6\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T05:46:55.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Practical6.csproj",
+              "DocumentMoniker": "C:\\Users\\shiva\\source\\repos\\Practical6\\Practical6.csproj",
+              "RelativeDocumentMoniker": "Practical6.csproj",
+              "ToolTip": "C:\\Users\\shiva\\source\\repos\\Practical6\\Practical6.csproj",
+              "RelativeToolTip": "Practical6.csproj",
+              "ViewState": "AgIAAAoAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-01T06:25:20.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shiva\\AppData\\Local\\Temp\\64436031-88f9-42db-b30e-f638eecc015c_P6 - ProductCatalogApplication.rar.15c\\P6 - ProductCatalogApplication\\ProductCatalogApplication\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\64436031-88f9-42db-b30e-f638eecc015c_P6 - ProductCatalogApplication.rar.15c\\P6 - ProductCatalogApplication\\ProductCatalogApplication\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shiva\\AppData\\Local\\Temp\\64436031-88f9-42db-b30e-f638eecc015c_P6 - ProductCatalogApplication.rar.15c\\P6 - ProductCatalogApplication\\ProductCatalogApplication\\Views\\Product\\Index.cshtml [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\64436031-88f9-42db-b30e-f638eecc015c_P6 - ProductCatalogApplication.rar.15c\\P6 - ProductCatalogApplication\\ProductCatalogApplication\\Views\\Product\\Index.cshtml [Read Only]",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-01T06:14:54.543Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\shiva\\AppData\\Local\\Temp\\fddba1dc-a101-486f-aac4-87aae57db1b9_P6 - ProductCatalogApplication.rar.1b9\\P6 - ProductCatalogApplication\\ProductCatalogApplication\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\fddba1dc-a101-486f-aac4-87aae57db1b9_P6 - ProductCatalogApplication.rar.1b9\\P6 - ProductCatalogApplication\\ProductCatalogApplication\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\shiva\\AppData\\Local\\Temp\\fddba1dc-a101-486f-aac4-87aae57db1b9_P6 - ProductCatalogApplication.rar.1b9\\P6 - ProductCatalogApplication\\ProductCatalogApplication\\Models\\Product.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\fddba1dc-a101-486f-aac4-87aae57db1b9_P6 - ProductCatalogApplication.rar.1b9\\P6 - ProductCatalogApplication\\ProductCatalogApplication\\Models\\Product.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T05:51:43.591Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
