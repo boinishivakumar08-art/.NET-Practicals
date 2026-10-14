@@ -1,0 +1,24 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"] - Feedback Management</title>
+</head>
+<body>
+    <header>
+        <h1>Feedback Management System</h1>
+        <hr />
+    </header>
+
+    <main>
+        @RenderBody()
+    </main>
+
+    <footer>
+        <hr />
+        <p>Feedback Management System</p>
+    </footer>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

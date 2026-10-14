@@ -1,0 +1,37 @@
+﻿
+@model FeedbackManagement.Models.Feedback
+
+<div>
+    <label asp-for="Name:"></label>
+    @Html.TextBoxFor(m => m.Name)
+    @Html.ValidationMessageFor(m => m.Name)
+</div>
+
+<div>
+    <label asp-for="Email:"></label>
+    @Html.TextBoxFor(m => m.Email)
+    @Html.ValidationMessageFor(m => m.Email)
+</div>
+
+<div>
+    <label asp-for="Message:"></label>
+    @Html.TextAreaFor(m => m.Message)
+    @Html.ValidationMessageFor(m => m.Message)
+</div>
+
+<div>
+    <label asp-for="Rating:"></label>
+    @Html.DropDownListFor(
+        m => m.Rating,
+        new SelectList(
+            new[] {
+                new { Value = 1, Text = "1 Star" },
+                new { Value = 2, Text = "2 Stars" },
+                new { Value = 3, Text = "3 Stars" },
+                new { Value = 4, Text = "4 Stars" },
+                new { Value = 5, Text = "5 Stars" }
+            },
+            "Value", "Text"),
+        "-- Select Rating --")
+    @Html.ValidationMessageFor(m => m.Rating)
+</div>

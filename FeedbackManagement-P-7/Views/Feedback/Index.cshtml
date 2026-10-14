@@ -1,0 +1,27 @@
+﻿
+@model FeedbackManagement.Models.Feedback
+
+@{
+    ViewData["Title"] = "Submit Feedback";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Submit Your Feedback</h2>
+
+@if (ViewBag.Message != null)
+{
+    <p style="color: green">@ViewBag.Message</p>
+}
+
+<form asp-controller="Feedback" asp-action="Index" method="post">
+    <div asp-validation-summary="ModelOnly"></div>
+
+    <partial name="_FeedbackForm" model="Model" />
+
+    <br />
+    <button type="submit">Submit Feedback</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
