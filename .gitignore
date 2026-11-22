@@ -1,0 +1,18 @@
+.vs/
+**/.vs/
+bin/
+**/bin/
+obj/
+**/obj/
+*.user
+*.suo
+
+# Visual Studio and .NET generated files
+.vs/
+**/.vs/
+bin/
+**/bin/
+obj/
+**/obj/
+*.user
+*.suo
